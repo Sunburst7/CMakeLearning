@@ -1,0 +1,101 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "CMakeLearning",
+					"jsonFile" : "directory-CMakeLearning-Debug-0fc2d56d4fc5c4456163.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMakeLearning",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "MyStaticLib",
+					"jsonFile" : "directory-MyStaticLib-Debug-567c956864206a544d41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "MyStaticLib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "CMakeLearning",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMakeLearning::@387058c658e906f49191",
+					"jsonFile" : "target-CMakeLearning-Debug-64f69ef6f2ffa61a51ef.json",
+					"name" : "CMakeLearning",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "MyStaticLib::@67ac53998a24d01e28f3",
+					"jsonFile" : "target-MyStaticLib-Debug-a851a1b9289941765e4d.json",
+					"name" : "MyStaticLib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug",
+		"source" : "C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

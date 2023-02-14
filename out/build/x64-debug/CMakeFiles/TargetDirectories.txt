@@ -1,0 +1,8 @@
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/CMakeLearning/CMakeFiles/CMakeLearning.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/CMakeLearning/CMakeFiles/edit_cache.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/CMakeLearning/CMakeFiles/rebuild_cache.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/MyStaticLib/CMakeFiles/MyStaticLib.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/MyStaticLib/CMakeFiles/edit_cache.dir
+C:/Users/Hao.Hu9/source/repos/CMakeLearning/CMakeLearning/out/build/x64-debug/MyStaticLib/CMakeFiles/rebuild_cache.dir
