@@ -1,5 +1,5 @@
 # ninja log v5
 6	180	6980711816502819	MyStaticLib/CMakeFiles/MyStaticLib.dir/MyStaticLib.cpp.obj	ddfbb375042793ef
+512	826	6980711822798198	bin/CMakeLearning.exe	1275f4721f4cd404
 181	245	6980711817132800	lib/MyStaticLib.lib	300b3758fc2844a
 1	510	6980711819808254	CMakeLearning/CMakeFiles/CMakeLearning.dir/CMakeLearning.cpp.obj	f788f1dcf68fea58
-512	826	6980711822798198	bin/CMakeLearning.exe	1275f4721f4cd404
